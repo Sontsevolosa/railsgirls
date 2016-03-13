@@ -1,2 +1,2 @@
-# railsgirls
+# RilsGirls
 It's time to code :)
